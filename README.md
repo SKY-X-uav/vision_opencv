@@ -1,5 +1,7 @@
 vision_opencv
 =============
+## NOTE: LOOK vision_opencv_bridge.txt for more info about installation
+
 ## INSTALLATION
     cd ~/quadcopter_drone_ws/src
     git clone https://github.com/ros-perception/vision_opencv.git
